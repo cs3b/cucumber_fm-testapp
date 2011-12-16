@@ -1,3 +1,0 @@
-
-# RCOV report
-rcov lib/*.rb -o tmp/rcov
